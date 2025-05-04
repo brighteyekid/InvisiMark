@@ -21,7 +21,7 @@ A comprehensive Digital Image Processing project that provides steganography, in
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/InvisiMark.git
+   git clone https://github.com/brighteyekid/InvisiMark
    cd InvisiMark
    ```
 
