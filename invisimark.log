@@ -1,0 +1,17 @@
+2025-05-04 15:33:21,483 - InvisiMark - INFO - Starting InvisiMark application
+2025-05-04 15:33:59,494 - InvisiMark - INFO - Searching for Qt plugins in:
+2025-05-04 15:33:59,494 - InvisiMark - INFO - - /usr/lib/x86_64-linux-gnu/qt5/plugins (exists: True)
+2025-05-04 15:33:59,494 - InvisiMark - INFO - Found Qt plugins at: /usr/lib/x86_64-linux-gnu/qt5/plugins
+2025-05-04 15:33:59,494 - InvisiMark - INFO - Setting QT_PLUGIN_PATH to /usr/lib/x86_64-linux-gnu/qt5/plugins
+2025-05-04 15:33:59,494 - InvisiMark - INFO - Importing PyQt...
+2025-05-04 15:34:02,081 - InvisiMark - INFO - Starting application...
+2025-05-04 15:37:44,141 - InvisiMark - INFO - QT_PLUGIN_PATH: /tmp/.mount_Cursor5T7Ikz/usr/lib/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/i386-linux-gnu/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/x86_64-linux-gnu/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/aarch64-linux-gnu/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib32/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib64/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/i386-linux-gnu/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/x86_64-linux-gnu/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/aarch64-linux-gnu/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib32/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib64/qt5/plugins/:
+2025-05-04 15:37:44,141 - InvisiMark - INFO - QT_QPA_PLATFORM: xcb
+2025-05-04 15:38:25,421 - InvisiMark - INFO - QT_PLUGIN_PATH: /tmp/.mount_Cursor5T7Ikz/usr/lib/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/i386-linux-gnu/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/x86_64-linux-gnu/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/aarch64-linux-gnu/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib32/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib64/qt4/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/i386-linux-gnu/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/x86_64-linux-gnu/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib/aarch64-linux-gnu/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib32/qt5/plugins/:/tmp/.mount_Cursor5T7Ikz/usr/lib64/qt5/plugins/:
+2025-05-04 15:38:25,421 - InvisiMark - INFO - QT_QPA_PLATFORM: xcb
+2025-05-04 15:39:19,031 - InvisiMark - INFO - QT_PLUGIN_PATH: /usr/lib/x86_64-linux-gnu/qt5/plugins
+2025-05-04 15:39:19,032 - InvisiMark - INFO - QT_QPA_PLATFORM: xcb
+2025-05-04 15:39:19,032 - InvisiMark - INFO - Trying with QT_QPA_PLATFORM: xcb
+2025-05-04 15:42:37,372 - InvisiMark - INFO - QT_PLUGIN_PATH: /usr/lib/x86_64-linux-gnu/qt5/plugins
+2025-05-04 15:42:37,372 - InvisiMark - INFO - QT_QPA_PLATFORM: xcb
+2025-05-04 15:42:37,372 - InvisiMark - INFO - Trying with QT_QPA_PLATFORM: xcb
