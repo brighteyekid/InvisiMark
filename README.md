@@ -147,7 +147,6 @@ python demo.py --image path/to/image.jpg --output demo_results
 - `/models`: AI-based tamper detection models
 - `/data`: Data directory for training and testing
 
-## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
